@@ -11,7 +11,7 @@ const Post = props => {
   const frontmatter = (post || {}).frontmatter;
   const title = ((post || {}).frontmatter || {}).title;
   const subTitle = ((post || {}).frontmatter || {}).subTitle;
-  const date = ((post || {}).fields || {}).prefix;
+  const date = ((post || {}).frontmatter || {}).date;
   const html = (post || {}).html;
 
   return (

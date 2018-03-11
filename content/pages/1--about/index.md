@@ -2,40 +2,20 @@
 title: About
 ---
 
-This is a demo site of the [Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) [GatsbyJs](https://www.gatsbyjs.org/) starter.
+Hi, I’m Darragh. I’m a full stack web developer and people leader from Cork, Ireland. I’ve been writing apps for a decade. On the client, then on the server and now on the client again.
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+### Digital // Teams // Learning
 
-### Standard features:
+I studied applied physics at Cork Institute of Technology. After that I moved to Canada to work for Blackberry (1 year after Apple opened the App Store and there was still hope!).
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifes.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
+I grew tired of winter after four years in Ontario , I traveled for a while – I cycled through Africa, visited friends in Europe and drove across Canada and up to the Arctic Circle. I eventually landed in New Zealand.
 
-### Advanced features:
+I love to try new things, see new places and meet new people. I’m particularly fond of the mountains, the oceans and outdoor places. I’ve never stopped playing with Lego.
 
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** leazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
+In general I’d rather be on my paddle board.
 
-## About me
+I was lucky enough to have access to a computer early through my school and eventually my family got a computer. I grew up breaking and rebuilding PC’s, running IRC daemons and messing around on the internet in general. I love it.
 
-My name is **Greg**. I am a front-end web developer. I love working with [GatsbyJs](https://www.gatsbyjs.org/). I love the UX it delivers out of the box for the end users and DX it provides to me as a developer. I decided to share the love by contributing in this way, sharing my code as starters. I hope somebody find that useful.
+I drive my motorcycle most days. I love cycling on longer trips. I drive a car when I need to get boards to the surf.
 
-For sure it's not my last [Gatsby starter](/starters). If you want to be in touch follow my on Twitter [@greglobinski](https://twitter.com/greglobinski)
-
-PS: Please be understanding. The English language is not my native language. If you find any bug or not clear words you can always do PR to [gatsby-starter-personal-blog](https://github.com/greglobinski/gatsby-starter-personal-blog), the repo contains the actual code of this demo.
+I bloody love chocolate. I drink reds generally. I don’t like salad dressing.

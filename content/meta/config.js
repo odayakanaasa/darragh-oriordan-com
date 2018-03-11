@@ -2,30 +2,30 @@ const colors = require("../../src/styles/colors");
 
 module.exports = {
   homeTitle: "Personal blog",
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS",
+  siteTitle: "Darragh ORiordan",
   shortSiteTitle: "PersonalBlog GatsbyJS Starter",
-  siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteDescription: "Personal site for Darragh ORiordan",
+  siteUrl: "https://clever-wright-21172d.netlify.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Darragh ORiordan",
+  authorTwitterAccount: "darraghor",
   // info
-  infoTitle: "greg lobinski",
+  infoTitle: "darragh",
   infoTitleNote: "personal blog",
   // manifest.json
-  manifestName: "PersonalBlog - a blog starter for GatsbyJS",
-  manifestShortName: "PersonalBlog", // max 12 characters
+  manifestName: "Darragh ORiordan",
+  manifestShortName: "DarraghOR", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.bg,
   manifestThemeColor: colors.bg,
   manifestDisplay: "standalone",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/darraghoriordam" },
+    { name: "twitter", url: "https://twitter.com/darraghor" },
+    { name: "facebook", url: "http://facebook.com/darraghoriordan" }
   ]
 };
