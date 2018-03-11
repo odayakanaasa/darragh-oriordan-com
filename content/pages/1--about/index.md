@@ -4,6 +4,7 @@ title: About
 
 Hi, I’m Darragh. I’m a full stack web developer and people leader from Cork, Ireland. I’ve been writing apps for a decade. On the client, then on the server and now on the client again.
 
+![pic of me](./about-main.jpg "pic of me")
 ### Digital // Teams // Learning
 
 I studied applied physics at Cork Institute of Technology. After that I moved to Canada to work for Blackberry (1 year after Apple opened the App Store and there was still hope!).
