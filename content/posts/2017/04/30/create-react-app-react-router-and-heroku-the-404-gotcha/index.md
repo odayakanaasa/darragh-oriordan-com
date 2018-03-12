@@ -3,6 +3,7 @@ title: Create-react-app react-router and Heroku
 subTitle: The 404 gotcha
 category: "development"
 cover: ../../../../post-default.jpg
+description: "How to fix 404s with your React app on heroku when using react-router and create-react-app"
 date: "2017-04-30T17:12:33"
 ---
 

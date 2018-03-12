@@ -26,7 +26,7 @@ class PageTemplate extends React.Component {
       <Main>
         <Page page={data.page} />
         <Footer footnote={data.footnote} />
-        <Seo data={data.post} facebook={facebook} />
+        <Seo data={data.page} facebook={facebook} />
       </Main>
     );
   }

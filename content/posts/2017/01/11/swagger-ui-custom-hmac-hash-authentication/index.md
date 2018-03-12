@@ -1,7 +1,8 @@
 ---
-title: Swagger UI
-subTitle: Custom HMAC hash authenticationn headers
+title: "Swagger UI: Custom HMAC hash authenticationn headers"
+subTitle: "Injecting html headers from swagger ui"
 category: "development"
+description: "How to add custom HMAC authentication to the headers for swagger-ui and swashbuckle"
 cover: header.png
 date: "2017-02-19T17:12:33"
 ---

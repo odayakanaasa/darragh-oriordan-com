@@ -1,6 +1,6 @@
 ---
-title: Cats and Dogs
-subTitle: Accelerating machine learning adoption
+title: Startup Weekend
+subTitle: Auckland 2017
 category: "management"
 cover: header.jpg
 date: "2017-05-25T17:12:33"
