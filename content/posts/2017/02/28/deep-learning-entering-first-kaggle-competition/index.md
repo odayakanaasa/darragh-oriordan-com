@@ -1,7 +1,7 @@
 ---
 title: Entering my first kaggle competition
 subTitle: I did some deep learning!
-category: "developmnt"
+category: "development"
 cover: ../../../../post-default.jpg
 date: "2017-02-28T17:12:33"
 ---

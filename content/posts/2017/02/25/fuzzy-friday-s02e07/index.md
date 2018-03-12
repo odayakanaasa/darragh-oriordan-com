@@ -1,7 +1,7 @@
 ---
 title: Fuzzy Friday
 subTitle: S02E06
-category: "developmnt"
+category: "development"
 cover: ../../../../post-default.jpg
 date: "2017-02-14T17:12:33"
 ---

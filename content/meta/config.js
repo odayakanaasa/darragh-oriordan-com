@@ -3,7 +3,7 @@ const colors = require("../../src/styles/colors");
 module.exports = {
   homeTitle: "Personal blog",
   siteTitle: "Darragh ORiordan",
-  shortSiteTitle: "PersonalBlog GatsbyJS Starter",
+  shortSiteTitle: "Darragh ORiordan",
   siteDescription: "Personal site for Darragh ORiordan",
   siteUrl: "https://clever-wright-21172d.netlify.com",
   pathPrefix: "",

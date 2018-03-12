@@ -1,7 +1,7 @@
 ---
-title: Webstock 2017
-subTitle: A long summary
-category: "developmnt"
+title: Swagger UI
+subTitle: Custom HMAC hash authenticationn headers
+category: "development"
 cover: header.png
 date: "2017-02-19T17:12:33"
 ---
