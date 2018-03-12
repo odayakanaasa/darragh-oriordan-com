@@ -2,7 +2,7 @@
 title: When agile gets dangerous
 subTitle: Honesty, clarity and consistency in your agile implementation
 category: "management"
-cover: header.jpg
+cover: header-agd.jpg
 date: "2017-09-14T17:12:33"
 ---
 
