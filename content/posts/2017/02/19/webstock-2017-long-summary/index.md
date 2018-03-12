@@ -2,6 +2,7 @@
 title: Webstock 2017
 subTitle: A long summary
 category: "developmnt"
+cover: ../../../../post-default.jpg
 date: "2017-02-19T17:12:33"
 ---
 
