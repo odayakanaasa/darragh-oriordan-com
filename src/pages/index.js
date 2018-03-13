@@ -21,7 +21,7 @@ class Index extends React.Component {
 
     return (
       <div>
-        <Seo facebook={facebook} data={{}}/>
+        <Seo facebook={facebook} data={{}} />
       </div>
     );
   }
