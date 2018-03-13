@@ -4,8 +4,9 @@ module.exports = {
   homeTitle: "Personal blog",
   siteTitle: "Darragh ORiordan",
   shortSiteTitle: "Darragh ORiordan",
-  siteDescription: "Darragh ORiordan is a programmer, technologist and blogger based in Auckland, New Zealand",
-  siteUrl: "https://clever-wright-21172d.netlify.com",
+  siteDescription:
+    "Darragh ORiordan is a programmer, technologist and blogger based in Auckland, New Zealand",
+  siteUrl: "https://www.darraghoriordan.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
